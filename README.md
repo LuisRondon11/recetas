@@ -1,6 +1,6 @@
 # Enlaces 
 
-## [Demostracion en vivo]( https://luisrondon11.github.io/formulario-de-registro/)
+## [Demostracion en vivo]( https://luisrondon11.github.io/recetas/)
 
 Esta es una pagina donde se practico el enlazado a otras paginas 
 Fue realizado como parte del curso [The Odin Proyect](https://www.theodinproject.com/)
